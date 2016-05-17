@@ -2,7 +2,9 @@
 compile:
 
 g++ -c lab5.cpp
+
 g++ -c main.cpp
+
 g++ -o hugeint main.o lab5.o
 
 
